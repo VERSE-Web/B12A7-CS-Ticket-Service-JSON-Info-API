@@ -1,7 +1,7 @@
 {
   "tickets": [
     {
-      "id": 1,
+      "id": "#0001",
       "title": "Login not working",
       "description": "User cannot log in with correct credentials.",
       "customer": "Alex Morgan",
@@ -10,7 +10,7 @@
       "createdAt": "2025-01-02T09:15:00Z"
     },
     {
-      "id": 2,
+      "id": "#0010",
       "title": "Page loading slowly",
       "description": "Dashboard takes too long to load after login.",
       "customer": "Jamie Lee",
@@ -19,7 +19,7 @@
       "createdAt": "2025-01-03T11:42:00Z"
     },
     {
-      "id": 3,
+      "id": "#0011",
       "title": "Password reset email missing",
       "description": "Password reset email is not being received.",
       "customer": "Chris Nolan",
@@ -28,7 +28,7 @@
       "createdAt": "2025-01-04T14:10:00Z"
     },
     {
-      "id": 4,
+      "id": "#0100",
       "title": "UI alignment issue",
       "description": "Buttons overlap on mobile screen.",
       "customer": "Taylor Smith",
@@ -37,7 +37,7 @@
       "createdAt": "2025-01-05T08:30:00Z"
     },
     {
-      "id": 5,
+      "id": "#0101",
       "title": "Payment failed",
       "description": "Card payment fails with unknown error.",
       "customer": "Jordan Kim",
@@ -46,7 +46,7 @@
       "createdAt": "2025-01-06T16:55:00Z"
     },
     {
-      "id": 6,
+      "id": "#0110",
       "title": "Profile picture not updating",
       "description": "User uploads image but profile picture stays the same.",
       "customer": "Morgan Reed",
@@ -55,7 +55,7 @@
       "createdAt": "2025-01-07T10:05:00Z"
     },
     {
-      "id": 7,
+      "id": "#0111",
       "title": "Search results incorrect",
       "description": "Search returns unrelated results.",
       "customer": "Sam Patel",
@@ -64,7 +64,7 @@
       "createdAt": "2025-01-08T13:20:00Z"
     },
     {
-      "id": 8,
+      "id": "#1000",
       "title": "Notifications not showing",
       "description": "User does not receive in-app notifications.",
       "customer": "Riley Chen",
@@ -73,7 +73,7 @@
       "createdAt": "2025-01-09T09:50:00Z"
     },
     {
-      "id": 9,
+      "id": "#1001",
       "title": "Export feature broken",
       "description": "Export to CSV does nothing when clicked.",
       "customer": "Casey Brown",
@@ -82,7 +82,7 @@
       "createdAt": "2025-01-10T15:40:00Z"
     },
     {
-      "id": 10,
+      "id": "#1010",
       "title": "Dark mode flicker",
       "description": "Screen flickers when switching to dark mode.",
       "customer": "Avery Johnson",
