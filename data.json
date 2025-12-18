@@ -1,6 +1,6 @@
 {
-  "tickets": [
-    {
+  "tickets": {
+    "#0001": {
       "id": "#0001",
       "title": "Login not working",
       "description": "User cannot log in with correct credentials.",
@@ -9,7 +9,7 @@
       "status": "Open",
       "createdAt": "2025-01-02T09:15:00Z"
     },
-    {
+    "#0010": {
       "id": "#0010",
       "title": "Page loading slowly",
       "description": "Dashboard takes too long to load after login.",
@@ -18,7 +18,7 @@
       "status": "In Progress",
       "createdAt": "2025-01-03T11:42:00Z"
     },
-    {
+    "#0011": {
       "id": "#0011",
       "title": "Password reset email missing",
       "description": "Password reset email is not being received.",
@@ -27,7 +27,7 @@
       "status": "Open",
       "createdAt": "2025-01-04T14:10:00Z"
     },
-    {
+    "#0100": {
       "id": "#0100",
       "title": "UI alignment issue",
       "description": "Buttons overlap on mobile screen.",
@@ -36,7 +36,7 @@
       "status": "Resolved",
       "createdAt": "2025-01-05T08:30:00Z"
     },
-    {
+    "#0101": {
       "id": "#0101",
       "title": "Payment failed",
       "description": "Card payment fails with unknown error.",
@@ -45,7 +45,7 @@
       "status": "In Progress",
       "createdAt": "2025-01-06T16:55:00Z"
     },
-    {
+    "#0110": {
       "id": "#0110",
       "title": "Profile picture not updating",
       "description": "User uploads image but profile picture stays the same.",
@@ -54,7 +54,7 @@
       "status": "Open",
       "createdAt": "2025-01-07T10:05:00Z"
     },
-    {
+    "#0111": {
       "id": "#0111",
       "title": "Search results incorrect",
       "description": "Search returns unrelated results.",
@@ -63,7 +63,7 @@
       "status": "In Progress",
       "createdAt": "2025-01-08T13:20:00Z"
     },
-    {
+    "#1000": {
       "id": "#1000",
       "title": "Notifications not showing",
       "description": "User does not receive in-app notifications.",
@@ -72,7 +72,7 @@
       "status": "Open",
       "createdAt": "2025-01-09T09:50:00Z"
     },
-    {
+    "#1001": {
       "id": "#1001",
       "title": "Export feature broken",
       "description": "Export to CSV does nothing when clicked.",
@@ -81,7 +81,7 @@
       "status": "Open",
       "createdAt": "2025-01-10T15:40:00Z"
     },
-    {
+    "#1010": {
       "id": "#1010",
       "title": "Dark mode flicker",
       "description": "Screen flickers when switching to dark mode.",
@@ -90,5 +90,5 @@
       "status": "Resolved",
       "createdAt": "2025-01-11T18:10:00Z"
     }
-  ]
+  }
 }
